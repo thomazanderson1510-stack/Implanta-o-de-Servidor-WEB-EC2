@@ -1,6 +1,6 @@
 # AWS EC2 – Implantação de Servidor Web e Gerenciamento de Infraestrutura
 
-## 1. Visão Geral do Projeto
+## 1. Visão Geral do Projeto.
 
 Este projeto apresenta a implantação e o gerenciamento de uma instância Amazon EC2 utilizando os serviços da AWS.
 
